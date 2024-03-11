@@ -1,1 +1,3 @@
-# hello_motto
+# ITS MY learning
+
+hey yeh its me yo
